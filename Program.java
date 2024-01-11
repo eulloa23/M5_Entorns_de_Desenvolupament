@@ -1,4 +1,4 @@
-/*
+/* No entiendo nada de esto
  * Program.java        20.10.2020
  *
  * Program to calculate the area and the perimeter
